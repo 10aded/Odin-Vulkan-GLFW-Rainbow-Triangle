@@ -1,0 +1,3 @@
+glslc.exe vertex.glsl   -o vertex.spv
+glslc.exe fragment.glsl -o fragment.spv
+
