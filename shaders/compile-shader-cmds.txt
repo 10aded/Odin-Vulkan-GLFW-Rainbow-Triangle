@@ -1,3 +1,5 @@
+The files vertex.spv and fragment.spv in this directory were creating by running the glslc.exe binary, available as part of the standard Vulkan SDK, on the .glsl files in this directory using the following commands.
+
 glslc.exe vertex.glsl   -o vertex.spv
 glslc.exe fragment.glsl -o fragment.spv
 

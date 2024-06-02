@@ -1,4 +1,4 @@
-// A "minimal" example of a Vulkan app which renders a rainbow triangle.
+// A "minimal" example of a Vulkan app in Odin which renders a rainbow triangle.
 //
 // Created by 10aded March 2024 - June 2024.
 //
@@ -12,7 +12,7 @@
 //      https://odin-lang.org/
 //
 // The most recent version of the compiler that the project was tested with
-// is: dev-2024-06:72a5e74
+// is: dev-2024-06:c07a46a
 // 
 // When compiled as above, the project does not require any external dependancies
 // (Vulkan drivers aside). Odin's vendor:glfw and vendor:vulkan libraries ---
@@ -46,7 +46,7 @@
 //
 // This code is available on github at:
 //
-// ***github url**
+//     https://github.com/10aded/Odin-Vulkan-GLFW-Rainbow-Triangle
 //
 // and was posted for education purposes.
 //
