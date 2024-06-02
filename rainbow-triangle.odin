@@ -14,7 +14,7 @@
 // The most recent version of the compiler that the project was tested with
 // is: dev-2024-06:c07a46a
 // 
-// When compiled as above, the project does not require any external dependancies
+// When compiled as above, the project does not require any external dependencies
 // (Vulkan drivers aside). Odin's vendor:glfw and vendor:vulkan libraries ---
 // included with the compiler by default --- are enough.
 //
